@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+
+.grey-qo-regular {
+  font-family: "Grey Qo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.content-div {
+  background-color: lightpink;
+  border-radius: 10px;
+}
+
+.oglink {
+  border-radius: 5px;
+  border-color: lightpink;
+  border-style: solid;
+  text-align: center;
+  height: 6dvh;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
